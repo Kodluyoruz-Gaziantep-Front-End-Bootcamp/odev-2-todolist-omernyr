@@ -1,15 +1,16 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Ödev - 2```
 
 # Homework 
-```Ödev```
+```Todo list ```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```I designed the assignment as a single component. I used Usestate in the assignment. ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Ömer Nayır```
+(<img width="890" alt="todo" src="https://user-images.githubusercontent.com/89137487/186183428-e2bf798a-a7ae-4e41-8424-a9d1b794e715.png">)
